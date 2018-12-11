@@ -1,9 +1,10 @@
 # QUIZ BOARD
 #### this is a program that is a realtime javascript multiple choice quiz.
  10/12/18
-#### By **{List of contributors}**
+#### By
+**BENSON MUCHOKI NYAGA**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This application contains five javascript queries. Each query has multiple choices and it awarded 20 marks if the answer is correct. There's a submit button that will submit the answers to the business logic and will compare the answers hence awarding the marks.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
