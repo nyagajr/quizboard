@@ -4,4 +4,17 @@ h1{
 }
 body{
   background-color: #c0c0c0;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+}
+p{
+  color: navy;
+}
+div{
+  position: relative;
+  text-align: center;
+}
+button{
+  position: center;
 }
