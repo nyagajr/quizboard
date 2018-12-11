@@ -8,6 +8,9 @@ body{
   background-position: left;
   background-size: auto;
 }
+button {
+  background-color: #008CBA;
+}
 p{
   color: navy;
 }
