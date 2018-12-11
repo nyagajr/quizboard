@@ -51,5 +51,6 @@ add(mark1,mark2,mark3,mark4,mark5);
 function add (num1,num2,num3,num4,num5)
 {
   var result = num1+num2+num3+num4+num5;
-  alert(result);
+  $("#output").text("your score is " + result);
+  event.preventDefault();
 };
