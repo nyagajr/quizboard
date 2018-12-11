@@ -15,7 +15,7 @@ no known bugs but if you come across one please share your experience through th
 3. JavaScript
 4. jQuery
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you have an additional feature to my app you can contact me through my email muchokijnrbenson@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+The project is under the MIT license
+Copyright (c) 2018 **BENSON MUCHOKI NYAGA**
