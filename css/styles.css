@@ -5,8 +5,8 @@ h1{
 body{
   background-color: #c0c0c0;
   background-repeat: no-repeat;
-  background-position: right;
-  background-size:auto;
+  background-position: left;
+  background-size: auto;
 }
 p{
   color: navy;
